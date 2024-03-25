@@ -1,4 +1,11 @@
-### Hi there 👋 I`m Hayoung
+### 김하영 / Hayoung Kim
+#### 📍 FrontEnd Developer in South Korea
+#### 👩🏻‍💻 JavaScript, React, HTML/CSS, etc
+#### ✍️ TypeScript, Next.js
+
+<br />
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hangnik106@gmail.com)](mailto:hangnik106@gmail.com)
 
 <!--
 **hangnik/hangnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
